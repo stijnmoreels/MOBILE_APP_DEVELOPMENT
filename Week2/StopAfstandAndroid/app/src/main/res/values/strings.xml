@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">StopAfstandAndroid</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="select_speed">Select your speed</string>
+    <string name="droog_wegdek">Droog wegdek</string>
+    <string name="nat_wegdek">Nat wegdek</string>
+    <string name="wegdek">Wegdek</string>
+
+</resources>
